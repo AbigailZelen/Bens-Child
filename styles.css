@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+p {
+    font-size: 222px;
+    font-weight: bolder;
+    font-variant: small-caps;
+    color: indigo;
+    background-color: chartreuse;
+}
